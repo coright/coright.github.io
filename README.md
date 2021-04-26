@@ -1,5 +1,8 @@
 # coright.github.io
+ 
+**Copyright © 2012-2021 [CORIGHT.COM](www.coright.com) All rights reserved.**
 
+<!--
 **coright/coright.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,3 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
