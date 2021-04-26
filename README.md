@@ -1,6 +1,6 @@
 # coright.github.io
  
-**Copyright © 2012-2021 [CORIGHT.COM](www.coright.com) All rights reserved.**
+**Copyright © 2012-2021 [CORIGHT.COM](http://www.coright.com) All rights reserved.**
 
 <!--
 **coright/coright.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
